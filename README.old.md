@@ -1,0 +1,1 @@
+# react-redux-storing-method-examples
